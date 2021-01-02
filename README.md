@@ -34,3 +34,4 @@
 * Based on the p-value of the t-test, the mean PSI of Lot 1 is statistically different to the 1500 psi of the population mean.
 
 ## Study Design: MechaCar vs Compitition
+To compare how MechaCar performas against the Compitition, the overall mpg, safety rating, price, and maintenance costs could be used.
